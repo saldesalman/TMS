@@ -1,0 +1,15 @@
+This is 95% of whats on offer in our project i'ev to do a little change yet in this code ..
+which includes using template and friend function . But layout and most part will remain be same.
+Run this program on your system .. And save it where Morning.txt and Night.txt are saved ... Though this code is yet limted as i ev
+made for 10 seats in 2 trains each we cant yet change it .. which is not a big issue.
+Everyother concept i ev tried to use.. Incase of any lacking point you observe in this code tell me by tomrow. 
+And try to understand code (Your marks matter on ur presentation)   indentation is done..
+.. 
+
+You first have sign up ... and then u can sign in .. save the program where morning.txt and night.txt are saved ... 
+..and basically morning.txt and night.txt contain seat of train(1 represnt empty 0 reprsent reserved) and last in both files is counted
+number of seats after every action ... incase of even no flaw or idea... Do messenger ur feedback ..... but but by tomrow evening .
+
+
+
+Incase of Any flaw any mistake or any idea which u think is lacking inform me... 
